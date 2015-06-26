@@ -1,0 +1,7 @@
+{
+  "name": "humble-hello",
+  "description": "A simple program that says hello to something or someone.",
+  "dependencies": {
+    "express": "~4.13.0"
+  }
+}
